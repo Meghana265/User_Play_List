@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T17:14:57 IST" name="Default suite" finished-at="2023-07-12T17:14:57 IST" duration-ms="189">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T17:14:57 IST" name="Default test" finished-at="2023-07-12T17:14:57 IST" duration-ms="189">
+      <class name="Assignemt.exetntreport">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Assignemt.exetntreport@2ed2d9cb]" started-at="2023-07-12T17:14:53 IST" name="setUp" finished-at="2023-07-12T17:14:57 IST" duration-ms="3235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddSong()[pri:0, instance:Assignemt.exetntreport@2ed2d9cb]" started-at="2023-07-12T17:14:57 IST" name="testAddSong" finished-at="2023-07-12T17:14:57 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddSong -->
+        <test-method signature="testDeleteSong()[pri:0, instance:Assignemt.exetntreport@2ed2d9cb]" started-at="2023-07-12T17:14:57 IST" name="testDeleteSong" finished-at="2023-07-12T17:14:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteSong -->
+        <test-method signature="testRecentlyPlayedSongs()[pri:0, instance:Assignemt.exetntreport@2ed2d9cb]" started-at="2023-07-12T17:14:57 IST" name="testRecentlyPlayedSongs" finished-at="2023-07-12T17:14:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRecentlyPlayedSongs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignemt.exetntreport@2ed2d9cb]" started-at="2023-07-12T17:14:57 IST" name="tearDown" finished-at="2023-07-12T17:14:58 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignemt.exetntreport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
